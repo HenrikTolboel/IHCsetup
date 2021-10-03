@@ -24,3 +24,5 @@ c-a c-\
 ``` 
 https://apple.stackexchange.com/questions/32834/is-there-an-os-x-terminal-program-that-can-access-serial-ports
 
+https://apple.stackexchange.com/questions/168401/how-can-i-redirect-the-output-of-screen-to-a-file
+
