@@ -1,2 +1,24 @@
 # IHCsetup
 Setup of my IHC controller V1
+
+
+
+## Mac OS connection
+having a ust to serial cable / dongle, You can access the IHC by adding a straight through DSUB 9 female - female cable.
+
+You can run the following commands:
+
+
+````
+ls -l /dev/tty.* /dev/cu.*
+
+The tty entry is for reading, while we here will use the cu entry for the usb to serial thingy.
+
+Then run 
+
+screen /dev/cu.usbserial-1410 115200 cs8 ixoff
+
+to exit screen again:
+
+c-a c-\
+
