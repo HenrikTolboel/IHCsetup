@@ -18,6 +18,8 @@ Then run
 
 screen /dev/cu.usbserial-1410 115200 cs8 ixoff
 
+# det er tilsyneladende ikke altid de sidste 2 parametre skal være der??
+
 to exit screen again:
 
 c-a c-\
