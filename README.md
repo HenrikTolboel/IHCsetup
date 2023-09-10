@@ -30,7 +30,7 @@ https://apple.stackexchange.com/questions/168401/how-can-i-redirect-the-output-o
 
 
 
-Exit does not wotk:
+Exit does not wotk: https://www.techcoil.com/blog/how-to-terminate-screen-terminal-sessions-cleanly-on-macos/
 
 use ctrl-a ctrl-d (detach)
 
