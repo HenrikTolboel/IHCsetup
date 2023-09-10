@@ -28,3 +28,13 @@ https://pbxbook.com/other/mac-tty.html
 
 https://apple.stackexchange.com/questions/168401/how-can-i-redirect-the-output-of-screen-to-a-file
 
+
+
+Exit does not wotk:
+
+use ctrl-a ctrl-d (detach)
+
+screen -list
+
+and then 
+screen -X -S 30766 quit
