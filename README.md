@@ -20,7 +20,9 @@ screen /dev/cu.usbserial-1410 115200 cs8 ixoff
 
 # det er tilsyneladende ikke altid de sidste 2 parametre skal være der??
 
-det kan være problematisk at komme forbi "Tryk <ESC>" menuen fra IHC controlleren. Tryk ESC med lidt mellemrum så kommer man ind. dobbeltklik så riskerer man blot at komme ind og så ud.
+det kan være problematisk at komme forbi "Tryk <ESC>" menuen fra IHC controlleren.
+Tryk ESC med lidt mellemrum så kommer man ind.
+dobbeltklik ESC så riskerer man blot at komme ind og så ud.
 
 to exit screen again:
 
